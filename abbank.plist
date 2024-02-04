@@ -25,9 +25,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.abbank.vaynhanh</string>
+				<string>com.kookmin.vay</string>
 				<key>bundle-version</key>
-				<string>1</string>
+				<string>1703232313</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
